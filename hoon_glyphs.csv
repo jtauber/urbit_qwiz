@@ -7,7 +7,7 @@ glyph,pronunciation
 "%",cen
 ":",col
 ",",com
-'"',doq
+"""",doq
 ".",dot
 "/",fas
 "<",gal
