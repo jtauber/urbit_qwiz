@@ -1,0 +1,12 @@
+-
+    title: "Pronunciation of Hoon Glyphs"
+    description: "shown a Hoon glyph, pick its pronunciation"
+    file: "hoon_glyphs.csv"
+    front: "glyph"
+    back: "pronunciation"
+-
+    title: "Hoon Pronunciation to Glyph"
+    description: "which Hoon glyph has the given pronunciation?"
+    file: "hoon_glyphs.csv"
+    front: "pronunciation"
+    back: "glyph"
