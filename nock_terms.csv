@@ -7,6 +7,6 @@ tail,the second noun in a cell
 subject,the head of the cell being evaluated
 formula,the tail of the cell being evaluated
 core,a cell whose tail is data and whose head is code containing one or more formulas.
-battery,the head of a core
-payload,the tail of a core
+battery,the head of a core (containing formulas)
+payload,the tail of a core (containing data)
 arm,a formula in the battery of a core
