@@ -1,0 +1,12 @@
+term,definition
+noun,either an atom or a cell
+atom,an unsigned integer
+cell,an ordered pair of nouns
+head,the first noun in a cell
+tail,the second noun in a cell
+subject,the head of the cell being evaluated
+formula,the tail of the cell being evaluated
+core,a cell whose tail is data and whose head is code containing one or more formulas.
+battery,the head of a core
+payload,the tail of a core
+arm,a formula in the battery of a core
